@@ -388,7 +388,7 @@ omega = function(M, m, seed = 21)
 
 # pick a location and file name to save results
 
-path = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n1000r10.RData"
+path = "\\\\labsvcsredirect\\ ... \\n1000r10.RData"
 
 {
 
@@ -482,7 +482,7 @@ rm(M1, M2, M3, M4, M5,
 
 # pick a location and file name to save results
 
-path = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n1000r50.RData"
+path = "\\\\labsvcsredirect\\ ... \\n1000r50.RData"
 
 {
 
@@ -575,7 +575,7 @@ rm(M1, M2, M3, M4, M5,
 
 # pick a location and file name to save results
 
-path = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n1000r100.RData"
+path = "\\\\labsvcsredirect\\ ... \\n1000r100.RData"
 
 {
 
@@ -669,7 +669,7 @@ rm(M1, M2, M3, M4, M5,
 
 # pick a location and file name to save results
 
-path = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n5000r10.RData"
+path = "\\\\labsvcsredirect\\ ... \\n5000r10.RData"
 
 {
 
@@ -763,7 +763,7 @@ rm(M1, M2, M3, M4, M5,
 
 # pick a location and file name to save results
 
-path = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n5000r50.RData"
+path = "\\\\labsvcsredirect\\ ... \\n5000r50.RData"
 
 {
 
@@ -856,7 +856,7 @@ rm(M1, M2, M3, M4, M5,
 
 # pick a location and file name to save results
 
-path = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n5000r100.RData"
+path = "\\\\labsvcsredirect\\ ... \\n5000r100.RData"
 
 {
 
@@ -950,7 +950,7 @@ rm(M1, M2, M3, M4, M5,
 
 # pick a location and file name to save results
 
-path = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n10000r10.RData"
+path = "\\\\labsvcsredirect\\ ... \\n10000r10.RData"
 
 {
 
@@ -1044,7 +1044,7 @@ rm(M1, M2, M3, M4, M5,
 
 # pick a location and file name to save results
 
-path = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n10000r50.RData"
+path = "\\\\labsvcsredirect\\ ... \\n10000r50.RData"
 
 {
 
@@ -1137,7 +1137,7 @@ rm(M1, M2, M3, M4, M5,
 
 # pick a location and file name to save results
 
-path = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n10000r100.RData"
+path = "\\\\labsvcsredirect\\ ... \\n10000r100.RData"
 
 {
 
@@ -1231,7 +1231,7 @@ rm(M1, M2, M3, M4, M5,
 
 # pick a location and file name to save results
 
-path = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n20000r10.RData"
+path = "\\\\labsvcsredirect\\ ... \\n20000r10.RData"
 
 {
 
@@ -1325,7 +1325,7 @@ rm(M1, M2, M3, M4, M5,
 
 # pick a location and file name to save results
 
-path = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n20000r50.RData"
+path = "\\\\labsvcsredirect\\ ... \\n20000r50.RData"
 
 {
 
@@ -1419,7 +1419,7 @@ rm(M1, M2, M3, M4, M5,
 
 # pick a location and file name to save results
 
-path = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n30000r10.RData"
+path = "\\\\labsvcsredirect\\ ... \\n30000r10.RData"
 
 {
 
@@ -1517,10 +1517,10 @@ rm(list = ls())
 
 # 
 
-path.table = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\table5-1.RData"
-path10 = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n1000r10.RData"
-path50 = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n1000r50.RData"
-path100 = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n1000r100.RData"
+path.table = "\\\\labsvcsredirect\\ ... \\table5-1.RData"
+path10 = "\\\\labsvcsredirect\\ ... \\n1000r10.RData"
+path50 = "\\\\labsvcsredirect\\ ... \\n1000r50.RData"
+path100 = "\\\\labsvcsredirect\\ ... \\n1000r100.RData"
 
 {
 
@@ -1632,9 +1632,9 @@ keep(tab5.1, path.table, path10, path50, path100, sure = TRUE)
 
 # 
 
-path10 = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n5000r10.RData"
-path50 = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n5000r50.RData"
-path100 = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n5000r100.RData"
+path10 = "\\\\labsvcsredirect\\ ... \\n5000r10.RData"
+path50 = "\\\\labsvcsredirect\\ ... \\n5000r50.RData"
+path100 = "\\\\labsvcsredirect\\ ... \\n5000r100.RData"
 
 {
 
@@ -1754,9 +1754,9 @@ keep(tab5.1, path.table, path10, path50, path100, sure = TRUE)
 
 # 
 
-path10 = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n10000r10.RData"
-path50 = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n10000r50.RData"
-path100 = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n10000r100.RData"
+path10 = "\\\\labsvcsredirect\\ ... \\n10000r10.RData"
+path50 = "\\\\labsvcsredirect\\ ... \\n10000r50.RData"
+path100 = "\\\\labsvcsredirect\\ ... \\n10000r100.RData"
 
 {
 
@@ -1876,8 +1876,8 @@ keep(tab5.1, path.table, path10, path50, path100, sure = TRUE)
 
 # 
 
-path10 = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n20000r10.RData"
-path50 = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n20000r50.RData"
+path10 = "\\\\labsvcsredirect\\ ... \\n20000r10.RData"
+path50 = "\\\\labsvcsredirect\\ ... \\n20000r50.RData"
 
 {
 
@@ -1964,7 +1964,7 @@ keep(tab5.1, path.table, path10, path50, path100, sure = TRUE)
 
 # 
 
-path10 = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\n30000r10.RData"
+path10 = "\\\\labsvcsredirect\\ ... \\n30000r10.RData"
 
 {
 

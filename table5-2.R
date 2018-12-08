@@ -382,7 +382,7 @@ omega = function(M, m, seed = 21)
 
 # pick a location and file name to save results
 
-path = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\table5-2.RData"
+path = "\\\\labsvcsredirect\\ ... \\table5-2.RData"
 
 {
 

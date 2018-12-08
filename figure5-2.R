@@ -385,7 +385,7 @@ omega = function(M, m, seed = 21)
 # ---- Plot Figure 5.2 --------------------------------------------------------------
 # ----------------------------------------------------------------------------------- 
 
-path = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\figure5-2.RData"
+path = "\\\\labsvcsredirect\\ ... \\figure5-2.RData"
 
 {
 

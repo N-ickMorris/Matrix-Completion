@@ -380,7 +380,7 @@ omega = function(M, m, seed = 21)
 # ---- Build Table 5.5 --------------------------------------------------------------
 # ----------------------------------------------------------------------------------- 
 
-path = "\\\\labsvcsredirect\\users$\\njm2868\\Documents\\table5-5.RData"
+path = "\\\\labsvcsredirect\\ ... \\table5-5.RData"
 
 {
 
